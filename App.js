@@ -1,4 +1,5 @@
 const http = require('http');
+const date = require('./modules');
 const fs = require('fs');
 
 const hostname = '127.0.0.1';
@@ -13,12 +14,14 @@ fs.readFile('index.html', (err, html) => {
     res.statusCode = 200;
     res.setHeader('Content-type', 'text/html');
     res.write(html);
+    res.write("The date and time are currently: " + date.myDateTime());
     res.end();
   });
 
   server.listen(port, hostname, () => {
     console.log('Server started on port ' + port);
   });
+
 
 
 });
