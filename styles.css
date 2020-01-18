@@ -1,3 +1,39 @@
+body {
+  background-color: lightblue;
+}
+
+
+
 #title {
+  position: absolute;
+  width: 345px;
+  height: 130px;
+  left: 216px;
+  top: 76px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 59px;
   text-align: center;
+
+  color: #000000;
+}
+
+#header {
+  position: absolute;
+  width: 345px;
+  height: 130px;
+  left: 216px;
+  top: 76px;
+
+  font-family: Jaldi;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 59px;
+  text-align: center;
+
+  color: #000000;
 }
