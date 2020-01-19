@@ -1,0 +1,11 @@
+CS2209b|"Assignment 2 - Python"| Assignment| January 23
+CS2212b| "Assignment 3"| Assignment| January 20
+"Clean Kitchen"| Personal Tasks| January 20
+CLASSICS2200| "Illiad Essay"| February 1
+BUS2257| "Marketing Midterm"| Exam| February 3
+DIG2203b| "Midterm"| Exam| February 4
+CS2212b| "Midterm"| Exam| February 5
+CS2212b| "Assignment 4"| Assignment| February 10
+CS2212b| "Assignment 5"| Assignment| February 27
+CS2212b| "Assignment 6"| Assignment| February 27
+CS2212b| "Final"| Exam| February 4
